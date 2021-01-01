@@ -1,7 +1,7 @@
 
 "use strict"
 
-const countDate = new Date('jan 1, 2021 00:00:00').getTime();
+const countDate = new Date('jan 1, 2022 00:00:00').getTime();
 
 function newYear() {
     const nowDate = new Date().getTime();
