@@ -1,13 +1,11 @@
 
-"use strict"
+"use strict";
 
 const countDate = new Date('jan 1, 2022 00:00:00').getTime();
 
 function newYear() {
-
     const nowDate = new Date().getTime();
     gap = countDate - nowDate;
-
     if(gap <= 0) {
         let text = document.getElementById('text');
         text.innerText = " С Новым Годом! ";
@@ -16,7 +14,6 @@ function newYear() {
         document.getElementById('minute').textContent = "0";
         document.getElementById('second').textContent = "0";
     }
-
     else {
         const second = 1000;
         const minute = second * 60;
@@ -32,6 +29,5 @@ function newYear() {
         document.getElementById('second').textContent = s;
     }
 }
-
 
 setInterval(newYear, 1);
