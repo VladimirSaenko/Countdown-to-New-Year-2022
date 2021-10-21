@@ -114,7 +114,7 @@
     color: yellow;
 }
 
-@media (max-width: 991px){
+@media (max-width: 991px) {
     .container .imgBx {
         position: absolute;
         top: 0;
@@ -129,7 +129,7 @@
     }
 }
 
-@media (max-width: 600px){
+@media (max-width: 600px) {
     .container .countdownBx h2{
         font-size: 1.1em;
     }
