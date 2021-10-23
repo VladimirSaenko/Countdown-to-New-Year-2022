@@ -2,7 +2,7 @@
  
 ### Сайт-отсчет до Нового Года(2022)
 
-![bg](https://user-images.githubusercontent.com/56477695/125449097-4b3b44e0-602e-4157-8010-b3cfecea7c43.jpg)
+![bg](https://user-images.githubusercontent.com/56477695/138550424-a3634fbc-738a-4f23-99dd-986a840e545f.jpg)
 
 ## Portfolio {
 
